@@ -4,6 +4,8 @@
 
 未來目標 : 程式重構，實作Design Pattern，並且發布成APK
 
+目前實作 : State Pattern，Singleton
+
 遊戲內容 :
 
 主角被困在一個沙漠中，必須要進入試煉，並生存下來，才能拿到通關的鑰匙。
