@@ -4,7 +4,7 @@
 
 未來目標 : 程式重構，實作Design Pattern，並且發布成APK
 
-目前實作 : State Pattern，Singleton
+目前實作 : State Pattern，Singleton，Raycast射擊，Navigation，Nav mesh agent，FSM
 
 遊戲內容 :
 
